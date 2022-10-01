@@ -12,5 +12,5 @@ mycursor.execute("SELECT column FROM table")
 
 myresult = mycursor.fetchall()
 
-for x in myresult:
+for x in myresult:sjadfjsadlkjflads
     print(x)
